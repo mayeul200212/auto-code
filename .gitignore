@@ -175,4 +175,4 @@ cython_debug/
 config2.yaml
 logs
 workspace
-metagpt
+protos/metagpt/metagpt
